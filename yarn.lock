@@ -398,10 +398,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/expect-puppeteer@3.3.1":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@types/expect-puppeteer/-/expect-puppeteer-3.3.1.tgz#46e5944bf425b86ea13a563c7c8b86901414988d"
-  integrity sha512-3raSnf28NelDtv0ksvQPZs410taJZ4d70vA8sVzmbRPV04fpmQm9/BOxUCloETD/ZI1EXRpv0pzOQKhPTbm4jg==
+"@types/expect-puppeteer@4.4.5":
+  version "4.4.5"
+  resolved "https://registry.yarnpkg.com/@types/expect-puppeteer/-/expect-puppeteer-4.4.5.tgz#832d0a1e74dbfd1bff9787ed99645d568130d5fb"
+  integrity sha512-vxPaumA8Fj6xlm3llKCR9V8L936HX4PyipaNMxDbWQIOWZoCl99jabD/6xuxXnCptOWUdUhXwDuX5cAJgCHsLg==
   dependencies:
     "@types/jest" "*"
     "@types/puppeteer" "*"
