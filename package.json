@@ -58,7 +58,7 @@
     "prettier": "2.1.2",
     "puppeteer": "1.20.0",
     "rimraf": "3.0.2",
-    "standard-version": "9.0.0",
+    "standard-version": "9.3.0",
     "ts-jest": "24.1.0",
     "ts-loader": "6.1.2",
     "tslint": "5.20.1",
