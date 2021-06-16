@@ -70,7 +70,7 @@
   },
   "dependencies": {
     "@types/googlemaps": "3.37.7",
-    "@types/heremaps": "3.0.15",
+    "@types/heremaps": "3.1.4",
     "@types/query-string": "6.2.0",
     "@types/uuid": "3.4.4",
     "handlebars": ">=4.1.0",
